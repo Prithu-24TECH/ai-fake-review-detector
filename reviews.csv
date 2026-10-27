@@ -1,0 +1,14 @@
+
+review,sentiment,label
+"This product is amazing and works perfectly",positive,genuine
+"Excellent quality, I really love it",positive,genuine
+"Very useful product, worth the money",positive,genuine
+"Terrible quality, stopped working quickly",negative,genuine
+"Very bad product, waste of money",negative,genuine
+"Poor quality and disappointing experience",negative,genuine
+"Best product ever, buy it now, unbelievable",positive,synthetic
+"Five stars, perfect, amazing, buy immediately",positive,synthetic
+"Absolutely the best thing in the world, guaranteed",positive,synthetic
+"Awful terrible worst product ever, never buy",negative,synthetic
+"Completely useless, horrible, worst purchase ever",negative,synthetic
+"Disaster product, bad bad bad, avoid it",negative,synthetic
